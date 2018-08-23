@@ -16,7 +16,7 @@ nombre = "Antonio"
 
 var x = 0.0, y = 0.0 , z = 0.0
 var rojo,verde,azul:Int
-
+//ctrl+command+spacebar
 var 😎 = "😝"
 
 //Tipos de datos
