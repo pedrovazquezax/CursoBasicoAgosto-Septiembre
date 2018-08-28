@@ -20,7 +20,7 @@ let 🍓🍏🍒🍐🍋🍇 = "Fruit Salad"
 
 let peliculaFavorita = "Interestelar"
 
-
+//concatenacion 
 let userName = "Valen"
 let likeYourPost = "Like"
 let message = userName + " " + likeYourPost
