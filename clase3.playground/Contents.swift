@@ -135,7 +135,7 @@ if  bandCanCarryGear2(bandMemberCount: 5, gearWeight: 600, weightPerPerson: 50, 
     "¡Todos dejan la banda! Parece que tendrás tu debut como solista."
 }
 
-
+Pedwero.18
 
 
 
